@@ -2,6 +2,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello, World!\n");
+    printf("Hello, Git!\n");//修改输出内容
     return 0;
 }

@@ -1,6 +1,6 @@
-#include <studio.h>
+#include <stdio.h>
 int main() {
-    printf("Git 实验：三个版本\n");
-    printf("优化输出格式\n");
+    int a = 10, b = 20;
+    printf("a + b = %d\n", a + b);
     return 0;
 }

@@ -13,5 +13,8 @@ int main() {
     // 新增两行
     cout << "10*5=" << mul(a, b) << endl;
     cout << "10/5=" << div(a, b) << endl;
+
+    cout << "M-clo的修改：新增输出" << endl; //M-clo的新增内容
+
     return 0;
 }

@@ -1,6 +1,6 @@
 #include <studio.h>
 int main() {
-    printf("Git 实验：二个版本\n");
-    printf("调用工具函数：%d\n", add(2, 3));
+    printf("Git 实验：三个版本\n");
+    printf("优化输出格式\n");
     return 0;
 }
